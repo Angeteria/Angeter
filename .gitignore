@@ -1,0 +1,10 @@
+.DS_Store
+*.pyc
+__pycache__/
+.env
+secrets.json
+config.ini
+Thumbs.db
+.tmp
+.temp
+temp/
